@@ -30,13 +30,13 @@ Flowgorithm is an educational tool that allows users to create programs using fl
 
 You can learn more about Flowgorithm and download it from their official website: [www.flowgorithm.org](http://www.flowgorithm.org/)
 
-## ☕ Java Conversion and Autograding
+## Java Conversion and Autograding
 
 For each task, after designing the logic in Flowgorithm, the flowchart is converted into a **Java program**. This is typically done by utilizing a specific **Java template** provided for the course, which helps structure the Flowgorithm-generated code into a runnable Java application.
 
 The converted Java code is then pushed to this GitHub repository. Upon pushing, **GitHub Actions** (configured through `.yml` workflow files) automatically compile and run tests on the submitted Java code. This **autograding system** provides immediate feedback on the correctness and adherence to assignment specifications.
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized to help you easily navigate through the different coursework components:
 
@@ -65,7 +65,7 @@ The repository is organized to help you easily navigate through the different co
   * **`Projects/`**: Contains subfolders for each major project, with its `.fprg` and `.java` files.
   * **`README.md`**: This file, providing an overview of the repository.
 
-## 🛠 How to Use the Files
+## How to Use the Files
 
 To view or run any of the files in this repository, you'll need the following:
 
