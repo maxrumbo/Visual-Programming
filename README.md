@@ -5,7 +5,7 @@
 
 Welcome to my repository for **Flowgorithm Visual Programming**\! This repository serves as a centralized collection of assignments, projects, and source code developed during my visual programming course.
 
-## 📝 Overview
+## Overview
 
 This repository is dedicated to my coursework using **Flowgorithm**, a free interactive flowchart interpreter that allows you to write and execute programs using flowcharts. It's an excellent tool for understanding the fundamental concepts of programming before diving into syntax-heavy languages.
 
@@ -17,7 +17,7 @@ Here you'll find:
   * **Projects:** More extensive, multi-part projects demonstrating broader application of visual programming concepts, including their Java implementations.
   * **Source Code:** All `.fprg` (Flowgorithm project files) and `.java` (Java source code) files for easy viewing and execution.
 
-## 🚀 What is Flowgorithm?
+## What is Flowgorithm?
 
 Flowgorithm is an educational tool that allows users to create programs using flowcharts. It helps in visualizing the program's logic and flow, making it easier to grasp concepts like:
 
@@ -82,7 +82,7 @@ Here's how to get started:
   * **Open Flowgorithm files:** Navigate to any `.fprg` file and open it directly with Flowgorithm.
   * **Open Java files:** Use VS Code (or your preferred IDE) to open the `.java` files. You can then compile and run them locally if needed.
 
-## 👨‍💻 Author
+## Author
 
   * **maxrumbo** - [github.com/maxrumbo](https://www.google.com/search?q=https://github.com/maxrumbo)
 
