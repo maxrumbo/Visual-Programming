@@ -4,18 +4,24 @@ Collection of coursework and projects developed using Flowgorithm and Java. This
 
 ## Key Concepts
 
-* Algorithm Design
-* Conditional Logic
-* Iteration & Loops
-* Functions & Procedures
-* Arrays
-* Java Implementation
+- Algorithm Design
+- Conditional Logic
+- Iteration & Loops
+- Functions & Procedures
+- Arrays
+- Java Implementation
+
+## Sample Flowchart
+
+Example of a Flowgorithm assignment:
+
+![X01 Flowchart](2425-X01-maxrumbo/X01.png)
 
 ## Tech Stack
 
-* Flowgorithm
-* Java
-* GitHub Actions
+- Flowgorithm
+- Java
+- GitHub Actions
 
 ## Purpose
 
